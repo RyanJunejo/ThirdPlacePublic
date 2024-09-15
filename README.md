@@ -1,5 +1,5 @@
 # Third Place App
-Note: This application is currently being developed! New features and a public release are in the works.
+Note: This application is currently being developed! New features and a public release are in the works. The code is hidden in a private repository and is available upon request.
 
 A university event management app built with Flutter and Firebase, where clubs can post events, and students can mark their attendance. The app allows students to see upcoming events, search by tags, view event details, and mark themselves as "Going".
 
